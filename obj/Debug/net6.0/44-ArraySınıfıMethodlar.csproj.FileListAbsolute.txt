@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\bin\Debug\net6.0\44-ArraySınıfıMethodlar.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\bin\Debug\net6.0\44-ArraySınıfıMethodlar.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\bin\Debug\net6.0\44-ArraySınıfıMethodlar.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\bin\Debug\net6.0\44-ArraySınıfıMethodlar.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\bin\Debug\net6.0\44-ArraySınıfıMethodlar.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\refint\44-ArraySınıfıMethodlar.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\44-ArraySınıfıMethodlar.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\SadıkTuran\CSS\44-ArraySınıfıMethodlar\obj\Debug\net6.0\ref\44-ArraySınıfıMethodlar.dll
